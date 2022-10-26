@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            525 Commits
+                            526 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -103,12 +103,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="224.99300109222392" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="224.99300109222392" y="0" width="114.75831095654368" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="339.7513120487676" y="0" width="76.6439941485188" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="416.3953061972864" y="0" width="18.980525292672638" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="435.375831489959" y="0" width="16.463875778258828" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="451.83970726821786" y="0" width="8.160292731782139" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.63438436927783" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="229.63438436927783" y="0" width="117.12566150874297" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="346.76004587802083" y="0" width="78.22508400909511" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="424.98512988711593" y="0" width="19.37207477312514" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="444.3572046602411" y="0" width="8.328631506932007" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="452.68583616717314" y="0" width="7.314163832826931" height="8" fill="#701516"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -120,7 +120,7 @@
                                 Dart
                             </div>
                             <small>
-                                <div>48.91%</div>
+                                <div>49.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -131,18 +131,18 @@
                                 CSS
                             </div>
                             <small>
-                                <div>16.66%</div>
+                                <div>17.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                CMake
+                                Swift
                             </div>
                             <small>
-                                <div>3.58%</div>
+                                <div>1.81%</div>
                             </small>
                         </div>
                     </section>
@@ -155,7 +155,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>24.95%</div>
+                                <div>25.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -166,18 +166,18 @@
                                 C++
                             </div>
                             <small>
-                                <div>4.13%</div>
+                                <div>4.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Swift
+                                Ruby
                             </div>
                             <small>
-                                <div>1.77%</div>
+                                <div>1.59%</div>
                             </small>
                         </div>
                     </section>
@@ -185,7 +185,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Oct 2022, 00:12:46 (timezone Asia/Tokyo) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 27 Oct 2022, 00:06:09 (timezone Asia/Tokyo) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
