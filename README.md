@@ -9,7 +9,8 @@
 
 # リリースしたアプリ
 ## タスクカレンダー
-![android_future_image (1)](https://user-images.githubusercontent.com/87256037/215445148-92b4f544-76fc-4371-8102-8af205b81683.png)
+![android_future_image (2)](https://user-images.githubusercontent.com/87256037/215746546-5fb1fae6-a277-41ab-9bd6-0b319f059812.png)
+
 
 機能が多いカレンダーアプリを使うほどでもないが、たまにある締め切りや予定を管理したい。。そんな方のための、超手軽でシンプルなアプリです！
 
