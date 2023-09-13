@@ -103,12 +103,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.64220093539893" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="283.64220093539893" y="0" width="82.69840634204338" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="366.34060727744236" y="0" width="53.68190084550452" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="420.0225081229469" y="0" width="19.08263519027649" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="439.1051433132233" y="0" width="13.294070697599915" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="452.3992140108233" y="0" width="7.600785989176769" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="286.456537129362" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="286.456537129362" y="0" width="81.37869652832414" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="367.83523365768616" y="0" width="52.82523945989208" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="420.66047311757825" y="0" width="18.778112503006415" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="439.4385856205846" y="0" width="13.081922527642007" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="452.52050814822667" y="0" width="7.479491851773342" height="8" fill="#701516"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -120,7 +120,7 @@
                                 Dart
                             </div>
                             <small>
-                                <div>61.66%</div>
+                                <div>62.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -131,7 +131,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>11.67%</div>
+                                <div>11.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>2.89%</div>
+                                <div>2.84%</div>
                             </small>
                         </div>
                     </section>
@@ -155,7 +155,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>17.98%</div>
+                                <div>17.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -166,7 +166,7 @@
                                 Swift
                             </div>
                             <small>
-                                <div>4.15%</div>
+                                <div>4.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -177,7 +177,7 @@
                                 Ruby
                             </div>
                             <small>
-                                <div>1.65%</div>
+                                <div>1.63%</div>
                             </small>
                         </div>
                     </section>
@@ -185,7 +185,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Sept 2023, 00:02:23 (timezone Asia/Tokyo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Sept 2023, 00:02:39 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
